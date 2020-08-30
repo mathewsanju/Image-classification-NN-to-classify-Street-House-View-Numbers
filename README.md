@@ -1,4 +1,4 @@
-# Image-classification-NN-to-classify-Street-House-View-Numbers
+# Image-classification-NN-to-classify-Street-View-House-Numbers
 * __Course:__ Neural Network and Deep Learning. 
 * __Skills and Tools:__ Neural Networks, Deep Learning, TensorFlow, Keras, Image Recognition.  
 * __Data:__ http://ufldl.stanford.edu/housenumbers
